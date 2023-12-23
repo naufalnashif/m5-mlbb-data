@@ -1,0 +1,58 @@
+match-id,game,tim-blue,tim-red,win,tim-win,mvp,mvp-hero,time,blue-pick-1,blue-pick-2,blue-pick-3,blue-pick-4,blue-pick-5,blue-ban-1,blue-ban-2,blue-ban-3,blue-ban-4,blue-ban-5,red-pick-1,red-pick-2,red-pick-3,red-pick-4,red-pick-5,red-ban-1,red-ban-2,red-ban-3,red-ban-4,red-ban-5
+1,1,FF,DEVU,DEVU,R,KIDBOMBA,Terizla,21,Lylia,Edith,Martis,Lapu-Lapu,Beatrix,Wanwan,Arlott,Hilda,Angela,Bruno,Baxia,Terizla,Novaria,Brody,Diggie,Nolan,Guinevere,Joy,Karrie,Ixia
+2,2,FF,DEVU,FF,B,ROSA,Lylia,17,Terizla,Lylia,Tigreal,Fanny,Beatrix,Wanwan,Diggie,Arlott,Lapu-Lapu,Valentina,Baxia,Bruno,Minotaur,Paquito,Faramis,Joy,Guinevere,Nolan,Ixia,Brody
+3,3,DEVU,FF,DEVU,B,MAGISTOR,Nolan,11,Nolan,Faramis,Bruno,Dyrroth,Kaja,Lylia,Joy,Terizla,Fanny,Ixia,Hilda,Valentina,Khaleed,Irithel,Amon,Diggie,Guinevere,Wanwan,Arlott,Tigreal
+4,4,FF,DEVU,DEVU,R,KIDBOMBA,Uranus,21,Guinevere,Novaria,Tigreal,Thamuz,Irithel,Wanwan,Arlott,Terizla,Bruno,Claude,Faramis,Nolan,Diggie,Beatrix,Uranus,Lylia,Joy,Valentina,Ixia,Lapu-Lapu
+5,1,BLCK,ONIC,BLCK,B,SENSUI,Guinevere,30,Guinevere,Faramis,Bruno,Rafaela,Khaleed,Fanny,Nolan,Joy,Tigreal,Minotaur,Benedetta,Lylia,Arlott,Khufra,Claude,Fredrinn,Wanwan,Valentina,Diggie,Mathilda
+6,2,BLCK,ONIC,ONIC,R,CW,Claude,23,Lylia,Bruno,Fredrinn,Mathilda,Edith,Fanny,Nolan,Joy,Tigreal,Minotaur,Dyrroth,Valentina,Claude,Khaleed,Kaja,Wanwan,Guinevere,Faramis,Diggie,Estes
+7,3,BLCK,ONIC,ONIC,R,CW,Wanwan,22,Valentina,Claude,Akai,Paquito,Floryn,Fanny,Nolan,Joy,Khaleed,Arlott,Kadita,Lancelot,Minotaur,Terizla,Wanwan,Guinevere,Fredrinn,Baxia,Diggie,Phoveus
+8,4,BLCK,ONIC,BLCK,B,OHEB,Claude,15,Valentina,Claude,Akai,Arlott,Minotaur,Fanny,Nolan,Joy,Kaja,Tigreal,Wanwan,Faramis,Lancelot,Mathilda,Khaleed,Guinevere,Fredrinn,Baxia,Phoveus,Hilda
+9,5,BLCK,ONIC,ONIC,R,BUTSSS,Terizla,14,Lylia,Claude,Baxia,Floryn,Arlott,Fanny,Nolan,Joy,Dyrroth,Khaleed,Martis,Terizla,Valentina,Kaja,Wanwan,Guinevere,Fredrinn,Akai,Phoveus,Minotaur
+10,1,APBR,SYS,APBR,B,FLAPTZY,Paquito,15,Nolan,Bruno,Arlott,Paquito,Novaria,Phoveus,Joy,Guinevere,Terizla,Tigreal,Claude,Faramis,Lancelot,Dyrroth,Kaja,Mathilda,Angela,Wanwan,Valentina,Minotaur
+11,2,APBR,SYS,SYS,R,MPTHEKING,Helcurt,19,Khaleed,Guinevere,Tigreal,Claude,Novaria,Phoveus,Joy,Arlott,Martis,Dyrroth,Wanwan,Helcurt,Terizla,Kaja,Faramis,Mathilda,Nolan,Angela,Minotaur,Valentina
+12,3,APBR,SYS,APBR,B,KYLETZY,Nolan,11,Nolan,Bruno,Tigreal,Benedetta,Odette,Kaja,Faramis,Phoveus,Brody,Minotaur,Guinevere,Terizla,Angela,Joy,Karrie,Mathilda,Wanwan,Arlott,Paquito,Khaleed
+13,4,SYS,APBR,APBR,R,SUPERMARCO,Brody,17,Guinevere,Bruno,Dyrroth,Minotaur,Novaria,Mathilda,Angela,Nolan,Fanny,Martis,Arlott,Faramis,Brody,Akai,Paquito,Wanwan,Kaja,Joy,Helcurt,Lylia
+14,1,BG,GEEK,GEEK,R,BALOYSKIE,Tigreal,21,Guinevere,Valentina,Uranus,Akai,Ixia,Lylia,Khaleed,Mathilda,Angela,Diggie,Faramis,Bruno,Baxia,Tigreal,Yu Zhong,Nolan,Wanwan,Joy,Minotaur,Claude
+15,2,GEEK,BG,BG,R,NIKO,Guinevere,23,Bruno,Valentina,Akai,Lapu-Lapu,Arlott,Nolan,Uranus,Wanwan,Ixia,Minotaur,Guinevere,Lylia,Gloo,Claude,Ruby,Khaleed,Mathilda,Joy,Diggie,Angela
+16,3,BG,GEEK,BG,B,LINA,Valentina,18,Bruno,Terizla,Valentina,Joy,Ruby,Khaleed,Lylia,Mathilda,Beatrix,Claude,Guinevere,Faramis,Minotaur,Lapu-Lapu,Karrie,Nolan,Wanwan,Kaja,Diggie,Angela
+17,4,GEEK,BG,GEEK,B,MARKYYY,Guinevere,23,Bruno,Dyrroth,Guinevere,Yve,Grock,Nolan,Wanwan,Joy,Ruby,Ixia,Baxia,Uranus,Angela,Faramis,Claude,Khaleed,Lylia,Mathilda,Minotaur,Valentina
+18,5,BG,GEEK,GEEK,R,LUKE,Arlott,13,Bruno,Faramis,Gloo,Tigreal,Martis,Khaleed,Mathilda,Lylia,Terizla,Valentina,Yve,Claude,Ruby,Arlott,Guinevere,Wanwan,Joy,Nolan,Minotaur,Angela
+19,1,BLCK,FF,BLCK,B,YUE,Valentina,15,Valentina,Mathilda,Fredrinn,Karrie,Edith,Fanny,Joy,Nolan,Tigreal,Novaria,Baxia,Terizla,Bruno,Kaja,Lunox,Wanwan,Lylia,Guinevere,Claude,Benedetta
+20,2,FF,BLCK,FF,B,TIENZY,Leomord,15,Lylia,Tigreal,Ixia,Leomord,Gloo,Wanwan,Mathilda,Diggie,Claude,Rafaela,Terizla,Fredrinn,Valentina,Karrie,Hilda,Joy,Nolan,Guinevere,Baxia,X Borg
+21,3,BLCK,FF,BLCK,B,OHEB,Claude,18,Valentina,Claude,Rafaela,Paquito,Edith,Fanny,Nolan,Joy,Leomord,Fredrinn,Terizla,Lylia,Minotaur,Brody,Helcurt,Wanwan,Mathilda,Guinevere,Martis,Akai
+22,4,FF,BLCK,BLCK,R,YUE,Valentina,18,Lylia,Leomord,Tigreal,Beatrix,Lapu-Lapu,Wanwan,Mathilda,Claude,Arlott,Edith,Valentina,Rafaela,Akai,Bruno,Khaleed,Joy,Nolan,Guinevere,Ixia,Gloo
+23,1,BG,SYS,SYS,R,MPTHEKING,Martis,14,Angela,Ruby,Terizla,Fredrinn,Irithel,Kaja,Joy,Faramis,Minotaur,Mathilda,Bruno,Valentina,Martis,Tigreal,Yu Zhong,Nolan,Wanwan,Guinevere,Baxia,Claude
+24,2,BG,SYS,SYS,R,RAA,Valentina,14,Bruno,Baxia,Lylia,Mathilda,Lapu-Lapu,Kaja,Faramis,Joy,Lancelot,Tigreal,Valentina,Arlott,Claude,Minotaur,Martis,Wanwan,Nolan,Guinevere,Angela,Diggie
+25,3,SYS,BG,SYS,B,RAA,Valentina,14,Valentina,Claude,Yu Zhong,Lancelot,Chou,Wanwan,Guinevere,Faramis,Baxia,Akai,Arlott,Bruno,Angela,Martis,Franco,Joy,Novaria,Kaja,Tigreal,Minotaur
+26,1,DEVU,ONIC,ONIC,R,KAIRI,Fredrinn,19,Valentina,Terizla,Bruno,Mathilda,Akai,Joy,Fanny,Kaja,Minotaur,Chou,Kadita,Fredrinn,Wanwan,Dyrroth,Gord,Faramis,Guinevere,Nolan,Diggie,Martis
+27,2,ONIC,DEVU,ONIC,B,KAIRI,Dyrroth,17,Fredrinn,Valentina,Claude,Dyrroth,Chou,Faramis,Minotaur,Bruno,Terizla,Lapu-Lapu,Angela,Baxia,Brody,Arlott,Novaria,Guinevere,Nolan,Joy,Mathilda,Tigreal
+28,3,DEVU,ONIC,ONIC,R,CW,Bruno,22,Valentina,Terizla,Tigreal,Lancelot,Irithel,Fanny,Joy,Kaja,Lylia,Kadita,Fredrinn,Bruno,Diggie,Novaria,Uranus,Faramis,Guinevere,Nolan,Ixia,Beatrix
+29,1,GEEK,APBR,APBR,R,OWGWEN,Mathilda,23,Bruno,Akai,Valentina,Tigreal,X Borg,Joy,Arlott,Nolan,Paquito,Benedetta,Mathilda,Baxia,Brody,Dyrroth,Novaria,Wanwan,Guinevere,Faramis,Terizla,Minotaur
+30,2,GEEK,APBR,GEEK,B,LUKE,Khaleed,20,Bruno,Baxia,Lylia,Ruby,Khaleed,Joy,Nolan,Arlott,Fanny,Akai,Mathilda,Terizla,Claude,Martis,Valentina,Wanwan,Guinevere,Faramis,Paquito,Minotaur
+31,3,GEEK,APBR,APBR,R,PHEWW,Faramis,15,Bruno,Lylia,Akai,Khaleed,Ruby,Joy,Nolan,Arlott,Dyrroth,Ixia,Faramis,Mathilda,Fredrinn,Claude,Phoveus,Wanwan,Guinevere,Baxia,Minotaur,Lapu-Lapu
+32,4,GEEK,APBR,APBR,R,OWGWEN,Mathilda,17,Yu Zhong,Akai,Lylia,Bruno,Angela,Nolan,Joy,Arlott,Claude,Dyrroth,Faramis,Fredrinn,Mathilda,Khaleed,Brody,Wanwan,Guinevere,Baxia,Minotaur,Lapu-Lapu
+33,1,BLCK,GEEK,GEEK,R,MARKYYY,Claude,15,Angela,Fredrinn,Wanwan,Arlott,Novaria,Fanny,Joy,Nolan,Khaleed,Phoveus,Ruby,Baxia,Claude,Valentina,Lapu-Lapu,Guinevere,Lylia,Bruno,Edith,Faramis
+34,2,BLCK,GEEK,BLCK,B,RENEJAY,Mathilda,21,Valentina,Mathilda,Akai,Ixia,Terizla,Fanny,Joy,Nolan,Ruby,Minotaur,Bruno,Fredrinn,Faramis,Lapu-Lapu,Grock,Guinevere,Lylia,Baxia,Edith,Wanwan
+35,3,GEEK,BLCK,BLCK,R,SENSUI,Akai,18,Claude,Baxia,Lylia,Arlott,Minotaur,Valentina,Guinevere,Mathilda,Edith,Paquito,Faramis,Akai,Rafaela,Khaleed,Karrie,Joy,Nolan,Bruno,Ruby,Lapu-Lapu
+36,4,GEEK,BLCK,BLCK,R,RENEJAY,Estes,18,Faramis,Claude,Baxia,Arlott,Lapu-Lapu,Valentina,Guinevere,Mathilda,Edith,Minotaur,Akai,Bruno,Gord,Terizla,Estes,Joy,Nolan,Lylia,Ruby,Khaleed
+37,1,DEVU,SYS,SYS,R,MPTHEKING,Lancelot,15,Valentina,Akai,Brody,Dyrroth,Kaja,Joy,Angela,Wanwan,Tigreal,Minotaur,Bruno,Kadita,Lancelot,Lapu-Lapu,Khufra,Nolan,Guinevere,Faramis,Diggie,Uranus
+38,2,DEVU,SYS,SYS,R,KUSEY,Wanwan,15,Guinevere,Bruno,Minotaur,Terizla,Lylia,Joy,Lancelot,Angela,Kaja,Tigreal,Valentina,Wanwan,Martis,Lapu-Lapu,Chou,Nolan,Faramis,Diggie,Novaria,Phoveus
+39,3,DEVU,SYS,DEVU,B,SUNSETLOVER,Lylia,32,Angela,Bruno,Baxia,Lylia,Terizla,Lancelot,Joy,Guinevere,Kaja,Minotaur,Wanwan,Valentina,Martis,Yu Zhong,Chou,Faramis,Diggie,Nolan,Phoveus,Uranus
+40,4,SYS,DEVU,DEVU,R,MAGISTOR,Guinevere,11,Claude,Lancelot,Arlott,Kaja,Valentina,Baxia,Lylia,Faramis,Novaria,Uranus,Guinevere,Wanwan,Minotaur,Gord,Yu Zhong,Angela,Nolan,Joy,Lapu-Lapu,Diggie
+41,5,DEVU,SYS,DEVU,B,CARVI,Ixia,11,Valentina,Baxia,Diggie,Ixia,Terizla,Joy,Wanwan,Angela,Lapu-Lapu,Lancelot,Bruno,Kadita,Kaja,Dyrroth,Hayabusa,Guinevere,Nolan,Faramis,Brody,Beatrix
+42,1,DEVU,BLCK,BLCK,R,OHEB,Bruno,17,Baxia,Terizla,Faramis,Brody,Angela,Mathilda,Wanwan,Akai,Lapu-Lapu,Edith,Bruno,Valentina,Fredrinn,Paquito,Tigreal,Nolan,Guinevere,Joy,Ixia,Minotaur
+43,2,DEVU,BLCK,BLCK,R,OHEB,Bruno,14,Baxia,Terizla,Faramis,Brody,Angela,Wanwan,Mathilda,Akai,Lapu-Lapu,Edith,Valentina,Bruno,Fredrinn,Paquito,Estes,Nolan,Guinevere,Joy,Ixia,Minotaur
+44,3,BLCK,DEVU,BLCK,B,SENSUI,Fredrinn,13,Valentina,Rafaela,Fredrinn,Khaleed,Beatrix,Nolan,Joy,Faramis,Minotaur,Tigreal,Lylia,Baxia,Ixia,Terizla,Kaja,Mathilda,Wanwan,Guinevere,Claude,Lapu-Lapu
+45,1,ONIC,APBR,ONIC,B,KIBOY,Tigreal,23,Nolan,Terizla,Bruno,Lylia,Tigreal,Faramis,Minotaur,Wanwan,Brody,Claude,Mathilda,Guinevere,Phoveus,Khaleed,Clint,Kaja,Valentina,Joy,Khufra,Kadita
+46,2,ONIC,APBR,ONIC,B,KIBOY,Grock,12,Nolan,Grock,Novaria,Karrie,Terizla,Faramis,Phoveus,Mathilda,Khaleed,Paquito,Arlott,Guinevere,Claude,Minotaur,Odette,Kaja,Valentina,Wanwan,Bruno,Tigreal
+47,3,ONIC,APBR,ONIC,B,KAIRI,Nolan,12,Nolan,Guinevere,Gusion,Harith,Terizla,Faramis,Phoveus,Mathilda,Paquito,Claude,Arlott,Novaria,Joy,Bruno,Khufra,Kaja,Valentina,Wanwan,Kadita,Brody
+48,1,APBR,BLCK,APBR,B,OWGWEN,Mathilda,15,Mathilda,Martis,Wanwan,Paquito,Novaria,Baxia,Fredrinn,Valentina,Estes,Minotaur,Lylia,Akai,Claude,Arlott,Angela,Nolan,Joy,Guinevere,Faramis,Khaleed
+49,2,BLCK,APBR,APBR,R,OWGWEN,Arlott,15,Mathilda,Martis,Valentina,Claude,Edith,Fanny,Nolan,Joy,Minotaur,Angela,Faramis,Fredrinn,Wanwan,Arlott,Paquito,Baxia,Guinevere,Akai,Ixia,Brody
+50,3,BLCK,APBR,APBR,R,SUPERMARCO,Brody,18,Fredrinn,Valentina,Estes,Beatrix,Paquito,Nolan,Joy,Fanny,Ixia,Wanwan,Faramis,Mathilda,Martis,Brody,Gloo,Baxia,Guinevere,Akai,Khaleed,Bruno
+51,1,APBR,ONIC,APBR,B,FLAPTZY,Thamuz,14,Fredrinn,Mathilda,Brody,Novaria,Thamuz,Kaja,Joy,Wanwan,Khaleed,Bruno,Valentina,Dyrroth,Tigreal,Claude,Terizla,Guinevere,Faramis,Nolan,Paquito,Lylia
+52,2,ONIC,APBR,ONIC,B,SANZ,Gord,23,Joy,Terizla,Claude,Gord,Ruby,Faramis,Mathilda,Wanwan,Baxia,Fredrinn,Tigreal,Bruno,Paquito,Valentina,Martis,Kaja,Nolan,Guinevere,Lylia,Kadita
+53,3,APBR,ONIC,APBR,B,PHEWW,Gord,15,Fredrinn,Brody,Arlott,Lapu-Lapu,Gord,Kaja,Joy,Wanwan,Tigreal,No Ban,Akai,Faramis,Yu Zhong,Bruno,Chou,Mathilda,Nolan,Guinevere,Novaria,Lylia
+54,4,ONIC,APBR,APBR,R,KYLETZY,Akai,15,Fredrinn,Claude,Kaja,Valentina,Hayabusa,Faramis,Mathilda,Minotaur,Paquito,Khaleed,Akai,Wanwan,Angela,Edith,Thamuz,Nolan,Joy,Guinevere,Kadita,Dyrroth
+55,5,ONIC,APBR,ONIC,B,SANZ,Novaria,27,Wanwan,Novaria,Minotaur,Paquito,Baxia,Mathilda,Phoveus,Faramis,Fanny,Khaleed,Fredrinn,Claude,Arlott,Lylia,Grock,Nolan,Joy,Guinevere,Terizla,Dyrroth
+56,6,APBR,ONIC,ONIC,R,CW,Claude,15,Wanwan,Thamuz,Akai,Lylia,Arlott,Kaja,Joy,Novaria,Khaleed,Dyrroth,Phoveus,Guinevere,Claude,Grock,Faramis,Mathilda,Nolan,Angela,Minotaur,Gord
+57,7,APBR,ONIC,APBR,B,FLAPTZY,Khaleed,14,Fredrinn,Faramis,Edith,Khaleed,Brody,Joy,Novaria,Wanwan,Gord,Lylia,Terizla,Kadita,Yve,Baxia,Claude,Mathilda,Nolan,Guinevere,Thamuz,Grock
